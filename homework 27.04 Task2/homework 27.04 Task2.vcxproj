@@ -129,9 +129,13 @@
   <ItemGroup>
     <ClCompile Include="Book.cpp" />
     <ClCompile Include="homework 27.04 Task2.cpp" />
+    <ClCompile Include="Talking_book.cpp" />
+    <ClCompile Include="Voice_recording.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Book.h" />
+    <ClInclude Include="Talking_book.h" />
+    <ClInclude Include="Voice_recording.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

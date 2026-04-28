@@ -21,9 +21,21 @@
     <ClCompile Include="Book.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Voice_recording.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Talking_book.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Book.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Voice_recording.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Talking_book.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
